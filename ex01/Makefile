@@ -1,6 +1,6 @@
-NAME = zombie
+NAME = zombieHorde
 
-SOURCE = Zombie.cpp \
+SOURCE =	Zombie.cpp \
 			zombieHorde.cpp \
 			main.cpp
 

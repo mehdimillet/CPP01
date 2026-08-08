@@ -1,4 +1,4 @@
-NAME = SED
+NAME = sed
 
 SOURCE = 	main.cpp
 

@@ -7,12 +7,13 @@
 
 class HumanA
 {
-    private:
-        std::string name;
-        Weapon &weapon;
-    public:
-        HumanA(std::string, Weapon&);
-        void    attack();
+	private:
+		std::string	name;
+		Weapon		&weapon;
+
+	public:
+		HumanA(std::string, Weapon&);
+		void	attack();
 };
 
 #endif

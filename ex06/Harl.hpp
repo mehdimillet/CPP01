@@ -6,14 +6,14 @@
 
 class Harl
 {
-    private:
-        void    error();
-        void    warning();
-        void    info();
-        void    debug();
+	private:
+		void	error();
+		void	warning();
+		void	info();
+		void	debug();
 
-    public:
-        void    complain(std::string);
+	public:
+		void	complain(std::string);
 };
 
 #endif
